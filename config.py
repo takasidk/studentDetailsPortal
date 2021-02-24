@@ -1,0 +1,6 @@
+customhost = "studentdb.cogx2rsdrgmw.us-east-2.rds.amazonaws.com"
+customuser = "friday"
+custompass = "dinskouskhali"
+customdb = "studentdb"
+custombucket = "addstudent0"
+customregion = "us-east-2"
